@@ -1,64 +1,46 @@
-# 📌BLACKSSH NEW UPDATE V6
-* UPDATE 30/09/2021
+# DK-SSH-MANAGER
 
-*  HAVE TELEGRAM SSH CREATE BOT
-*  HAVE SSH ACCOUNT BANNER NAME CHANGE
-*  LIMIT PROBLEM FIXED 
-*  NEW TAB USER-LIMIT
-*  TELEGRAM BOT RESELLER 
-*  AND MORE
-*  MANUAL SSH BANER ADD COMMAND
+📌DK SSH NEW UPDATE V1
 
+📌UPDATE 09/10/2021
 
+⚙️HAVE TELEGRAM SSH CREATE BOT
 
-# 📌BLACKSSH MANAGER
+⚙️HAVE SSH ACCOUNT BANNER NAME CHANGE
 
-* යාවත්කාලීන කිරීම 02/09/2021 - සම්පූර්ණ කරන ලද ව්‍යාපෘතිය
+⚙️LIMIT PROBLEM FIXED
 
-* UPDATE 02/09/2021 - COMPLETED PROJECT
+⚙️NEW TAB USER-LIMIT
 
-# 🌐LANGUAGE
+⚙️TELEGRAM BOT RESELLER
 
-* ENGLISH
- 
-* SINHALA
+AND MORE
 
-# ❤️REMODIFIED BY 🔰ඩේටා HACKERZ🔰 FROM SRILANKA  🇱🇰 ...❤️
+⚙️MANUAL SSH BANER ADD COMMAND
 
--------------------------------------------------------------------------------
+📌DKSSH MANAGER
+යාවත්කාලීන කිරීම 09/10/2021 - සම්පූර්ණ කරන ලද ව්‍යාපෘතිය
 
+UPDATE 09/10/2021 - COMPLETED PROJECT
 
-## :BOOK: INSTALLATION
-```
+🌐LANGUAGE
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/DK-SSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
+✅ ENGLISH
 
-```
+✅ SINHALA
 
-# 🔥⚡️⚡️ MR YASH 😍❤️ 🇱🇰 ⚡️⚡️🔥
+❤️REMODIFIED BY ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️  FROM SRILANKA 🇱🇰 ...❤️
+:BOOK: INSTALLATION
 
--------------------------------------------------------------------------------
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/Bcoderx6/BLACKSSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
 
-
-
-# 🏃‍CONTACT ME
-
-3. [🔥⚡️⚡️ MR YASH 😍❤️ 🇱🇰 ⚡️⚡️🔥](https://t.me/YASH1029) 
-
-```
-* NO MINING!
-* NO HACKING!
-* FREE VERSION
-* WITHOUT KEYS!
-* CONTROL WITH TG BOT
-* RELEASED FILES (DECENCRYPTED)
-* WITHOUT TROJANO VIRUS (BOTNET)
-```
-
-```
-☆ [🔥⚡️⚡️ MR YASH 😍❤️ 🇱🇰 ⚡️⚡️🔥](https://t.me/YASH1029) ☆
-```
-
-** BY: 🔰ඩේටා HACKERZ🔰 🇱🇰 **
-
-<h6><font color="green"> 🔰FEEL THE VENOM🔰 <br>
+* 💎NO MINING!
+* 💎NO HACKING!
+* 💎FREE VERSION
+* 💎WITHOUT KEYS!
+* 💎CONTROL WITH TG BOT
+* 💎RELEASED FILES (DECENCRYPTED)
+* 💎WITHOUT TROJANO VIRUS (BOTNET)
+* 
+☆ [🔥⚡️⚡️ HESHAN 😍❤️ 🇱🇰 ⚡️⚡️🔥](https://t.me/Dk_king_offcial) ☆
+ #TEAM OF : ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️
