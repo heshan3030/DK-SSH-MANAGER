@@ -50,12 +50,12 @@ fun_botOnOff () {
   	        cd $HOME
           }
           fun_bar 'fun_bot1'
-          [[ $(ps x | grep "bot_plus"|grep -v grep | wc -l) != '0' ]] && echo -e "\n\033[1;32m BLACKSSH BOT ON !\033[0m" || echo -e "\n\033[1;31m ERROR! RE-ANALYZE YOUR INFORMATION\033[0m"
+          [[ $(ps x | grep "bot_plus"|grep -v grep | wc -l) != '0' ]] && echo -e "\n\033[1;32m DK-KSSH BOT ON !\033[0m" || echo -e "\n\033[1;31m ERROR! RE-ANALYZE YOUR INFORMATION\033[0m"
           sleep 3
           menu
       } || {
           clear
-          echo -e "\033[1;32mSTOPPING BOT BLACKSSH ... \033[0m\n"
+          echo -e "\033[1;32mSTOPPING BOT DK-KSSH ... \033[0m\n"
           fun_bot2 () {
               screen -r -S "bot_plus" -X quit
               screen -wipe 1>/dev/null 2>/dev/null
