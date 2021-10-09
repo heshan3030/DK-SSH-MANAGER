@@ -29,7 +29,7 @@ fun_menu() {
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
         env_msg+="<b>💎Telegram-Whatsapp-@Dk_king_offcial/+94768100942💎 </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
-        env_msg+="⚠️ <i>DK SSH MANAGER</i>\n\n"
+        env_msg+="⚠️ <i>DATAKINGDOM SSH MANAGER BOT MENU</i>\n\n"
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} --text "$env_msg" \
             --reply_markup "$keyboard1" \
             --parse_mode html
@@ -45,11 +45,11 @@ fun_menu() {
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
         env_msg+="<b>----------♻️ DK SSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b>  ⚡️⚡️ CREATED BY DATA-KING-OFFCIAL ⚡️⚡     </b>\n"
+	env_msg+="<b>   🔥⚡️⚡️ CREATED BY DATA-KING-OFFCIAL ⚡️⚡🔥    </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram-Whatsapp- +94768100942 </b>\n"
+        env_msg+="<b>💎Telegram-Whatsapp-@Dk_king_offcial/+94768100942💎 </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
-        env_msg+="⚠️ <i>SELECT AN OPTION BELOW!</i>\n\n"
+        env_msg+="⚠️ <i>DATAKINGDOM SSH MANAGER BOT MENU!</i>\n\n"
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} --text "$env_msg" \
             --reply_markup "$keyboard2" \
             --parse_mode html
@@ -59,11 +59,11 @@ fun_menu() {
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
         env_msg+="<b>----------♻️ DK SSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b> ⚡️⚡️ CREATED BY DATA-KING-OFFCIAL ⚡️⚡      </b>\n"
+	env_msg+="<b> 🔥⚡️⚡️ CREATED BY DATA-KING-OFFCIAL ⚡️⚡🔥  </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram-Whatsapp-+94768100942 </b>\n"
+        env_msg+="<b>💎Telegram-Whatsapp-@Dk_king_offcial/+94768100942💎 </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
-        env_msg+="⚠️ <i>SELECT AN OPTION BELOW!</i>\n\n"
+        env_msg+="⚠️ <i>DATAKINGDOM SSH MANAGER BOT MENU!</i>\n\n"
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} --text "$env_msg" \
             --reply_markup "$keyboard3" \
             --parse_mode html
@@ -88,14 +88,14 @@ fun_ajuda() {
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
         env_msg+="<b>----------♻️ DK SSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b> ⚡️⚡️ CREATED BY DATA-KING-OFFCIAL ⚡️⚡    </b>\n"
+	env_msg+="<b>  🔥⚡️⚡️ CREATED BY DATA-KING-OFFCIAL ⚡️⚡🔥    </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram-Whatsapp- +94768100942 </b>\n"
+        env_msg+="<b>💎Telegram-Whatsapp-@Dk_king_offcial/+94768100942💎 </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>Available Commands</i>\n\n"
         env_msg+="[<b>01</b>] /menu = Displays menu\n"
         env_msg+="[<b>02</b>] /info = Displays information\n"
-        env_msg+="[<b>03</b>] /ajuda = Option information\n\n"
+        env_msg+="[<b>03</b>] /HELP = Option information\n\n"
         env_msg+="⚠️ <i>Available Options</i>\n\n"
         env_msg+="• <u>CREATE USER</u> = Create ssh user\n\n"
         env_msg+="• <u>CREATE TEST</u> = Create ssh test\n\n"
@@ -128,14 +128,14 @@ fun_ajuda() {
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
         env_msg+="<b>----------♻️ DK SSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b> ⚡️⚡️ CREATED BY DATA-KING-OFFCIAL ⚡️⚡      </b>\n"
+	env_msg+="<b>  🔥⚡️⚡️ CREATED BY DATA-KING-OFFCIAL ⚡️⚡🔥      </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram-Whatsapp- +94768100942 </b>\n"
+        env_msg+="<b>💎Telegram-Whatsapp-@Dk_king_offcial/+94768100942💎 </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>Available Commands</i>\n\n"
         env_msg+="[<b>01</b>] /menu = Displays menu\n"
         env_msg+="[<b>02</b>] /info = Displays information\n"
-        env_msg+="[<b>03</b>] /ajuda = Option information\n\n"
+        env_msg+="[<b>03</b>] /HELP = Option information\n\n"
         env_msg+="⚠️ <i>Available Options</i>\n\n"
         env_msg+="• <u>CREATE USER</u> = Create ssh user\n\n"
         env_msg+="• <u>CREATE TEST</u> = Create ssh test\n\n"
@@ -158,14 +158,14 @@ fun_ajuda() {
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
         env_msg+="<b>----------♻️ DK SSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b>  ⚡️⚡️ CREATED BY DATA-KING-OFFCIAL ⚡️⚡    </b>\n"
+	env_msg+="<b>  🔥⚡️⚡️ CREATED BY DATA-KING-OFFCIAL ⚡️⚡🔥    </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram-Whatsapp- +94768100942 </b>\n"
+        env_msg+="<b>💎Telegram-Whatsapp-@Dk_king_offcial/+94768100942💎 </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>Available Commands</i>\n\n"
         env_msg+="[<b>01</b>] /menu = Displays menu\n"
         env_msg+="[<b>02</b>] /info = Displays information\n"
-        env_msg+="[<b>03</b>] /ajuda = Option information\n\n"
+        env_msg+="[<b>03</b>] /HELP = Option information\n\n"
         env_msg+="⚠️ <i>Available Options</i>\n\n"
         env_msg+="• <u>CREATE USER</u> = Create ssh user\n\n"
         env_msg+="• <u>CREATE TEST</u> = Create ssh test\n\n"
@@ -1284,8 +1284,8 @@ restaure_backup() {
 }
 msg_bem_vindo() {
     local msg
-    msg="Hi ✌️😃 <b>${message_from_first_name[$id]}</b>\n\nWELCOME(a)\n\n"
-    msg+="To access the menu\nclick or execute [ /menu ]\n\n"
+    msg="Hi ✌️හායි බොක්ක😊<b>${message_from_first_name[$id]}</b>\n\n ✅WELCOME DATAKINGDOM SSH MANASGER BOT✅\n\n"
+    msg+="To access the menu\n click MENU [ /menu ]\n\n"
     msg+="For information\nclick or execute [ /ajuda ]\n\n"
     ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
         --text "$(echo -e $msg)" \
