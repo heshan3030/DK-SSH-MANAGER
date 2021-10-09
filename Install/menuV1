@@ -1,0 +1,5 @@
+#!/bin/bash
+#Menu Original
+
+wget -O /bin/menu https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Modulos/menu > /dev/null 2>&1; chmod +x /bin/menu; /bin/menu
+#fim
