@@ -41,6 +41,6 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/Bc
 * 💎CONTROL WITH TG BOT
 * 💎RELEASED FILES (DECENCRYPTED)
 * 💎WITHOUT TROJANO VIRUS (BOTNET)
-* 
+ 
 ☆ [🔥⚡️⚡️ HESHAN 😍❤️ 🇱🇰 ⚡️⚡️🔥](https://t.me/Dk_king_offcial) ☆
  #TEAM OF : ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️
