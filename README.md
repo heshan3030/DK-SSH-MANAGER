@@ -30,7 +30,8 @@ UPDATE 09/10/2021 - COMPLETED PROJECT
 ✅ SINHALA
 
 ❤️REMODIFIED BY ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️  FROM SRILANKA 🇱🇰 ...❤️
-:BOOK: INSTALLATION
+
+## :BOOK: INSTALLATION
 
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
 
