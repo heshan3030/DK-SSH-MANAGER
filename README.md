@@ -4,6 +4,7 @@
 
 
 ## 📌DK SSH NEW UPDATE V1
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/heshan3030/DK-SSH-MANAGER)
 
 
 
