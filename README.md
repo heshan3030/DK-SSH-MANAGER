@@ -60,6 +60,7 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/he
  
  # Contact / Social Media
  
- # #*Get the latest News about Web Development, Open Source, Tooling, Server & Security*
+ ## *Get the latest News about Web Development, Open Source, Tooling, Server & Security*
  ![Github](https://github.frapsoft.com/social/github.png)(https://github.com/heshan3030)
+ [![whatsapp](https://github.frapsoft.com/social/whatsapp.png)(https://chat.whatsapp.com/LTvwI9vghx94e4mixI0ljQ) 
 
