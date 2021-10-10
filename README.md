@@ -58,5 +58,8 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/he
 ## ☆ [🔥⚡️⚡️ HESHAN 😍❤️ 🇱🇰 ⚡️⚡️🔥](https://t.me/Dk_king_offcial) ☆
  # TEAM OF : ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️
  
+ # Contact / Social Media
  
+ # #*Get the latest News about Web Development, Open Source, Tooling, Server & Security*
+ ![Github](https://github.frapsoft.com/social/github.png)(https://github.com/heshan3030)
 
