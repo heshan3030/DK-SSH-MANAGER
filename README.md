@@ -1,39 +1,39 @@
 # DK-SSH-MANAGER
 
-📌DK SSH NEW UPDATE V1
+## 📌DK SSH NEW UPDATE V1
 
-📌UPDATE 09/10/2021
+## 📌UPDATE 09/10/2021
 
-⚙️HAVE TELEGRAM SSH CREATE BOT
+## ⚙️HAVE TELEGRAM SSH CREATE BOT
 
-⚙️HAVE SSH ACCOUNT BANNER NAME CHANGE
+## ⚙️HAVE SSH ACCOUNT BANNER NAME CHANGE
 
-⚙️LIMIT PROBLEM FIXED
+## ⚙️LIMIT PROBLEM FIXED
 
-⚙️NEW TAB USER-LIMIT
+## ⚙️NEW TAB USER-LIMIT
 
-⚙️TELEGRAM BOT RESELLER
+## ⚙️TELEGRAM BOT RESELLER
 
 AND MORE
 
-⚙️MANUAL SSH BANER ADD COMMAND
+## ⚙️MANUAL SSH BANER ADD COMMAND
 
 📌DKSSH MANAGER
 යාවත්කාලීන කිරීම 09/10/2021 - සම්පූර්ණ කරන ලද ව්‍යාපෘතිය
 
 UPDATE 09/10/2021 - COMPLETED PROJECT
 
-🌐LANGUAGE
+## 🌐LANGUAGE
 
-✅ ENGLISH
+## ✅ ENGLISH
 
-✅ SINHALA
+## ✅ SINHALA
 
-❤️REMODIFIED BY ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️  FROM SRILANKA 🇱🇰 ...❤️
+## ❤️REMODIFIED BY ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️  FROM SRILANKA 🇱🇰 ...❤️
 
 ## :BOOK: INSTALLATION
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
+## apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
 
 * 💎NO MINING!
 * 💎NO HACKING!
