@@ -1,4 +1,4 @@
-# DK-SSH-MANAGER
+# 🇱🇰 DK-SSH-MANAGER 🇱🇰
 <img align="middle" src="https://te.legra.ph/file/0c7c839bf91540e822c83.jpg" width='300'/>
 
 
@@ -17,9 +17,16 @@
 
 ## ⚙️TELEGRAM BOT RESELLER
 
-AND MORE
-
 ## ⚙️MANUAL SSH BANNER ADD COMMAND
+
+## @ Auto genarate
+
+<img align="middle" src="https://te.legra.ph/file/390a49e01ab1dc23b4ee0.jpg" width='300'/>
+
+
+
+
+
 
 ## 📌DKSSH MANAGER
 යාවත්කාලීන කිරීම 09/10/2021 - සම්පූර්ණ කරන ලද ව්‍යාපෘතිය
@@ -34,7 +41,7 @@ AND MORE
 
 ## ❤️REMODIFIED BY ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️  FROM SRILANKA 🇱🇰 ...❤️
 
-## :BOOK: INSTALLATION
+## INSTALLATION 📖
 ```
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
 ```
