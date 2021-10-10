@@ -19,7 +19,7 @@
 
 ## ⚙️MANUAL SSH BANNER ADD COMMAND
 
-## @ Auto genarate
+## ⚙️ AUTO GENARATE SYSTEM
 
 <img align="middle" src="https://te.legra.ph/file/390a49e01ab1dc23b4ee0.jpg" width='300'/>
 
