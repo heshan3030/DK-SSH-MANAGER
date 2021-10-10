@@ -1,4 +1,7 @@
 # DK-SSH-MANAGER
+<img align="middle" src="https://te.legra.ph/file/0c7c839bf91540e822c83.jpg" width='300'/>
+
+
 
 ## 📌DK SSH NEW UPDATE V1
 
@@ -48,4 +51,3 @@ UPDATE 09/10/2021 - COMPLETED PROJECT
  
  
 
-<img align="right" src="https://te.legra.ph/file/0c7c839bf91540e822c83.jpg" width='300'/>
