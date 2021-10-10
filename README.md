@@ -19,12 +19,12 @@
 
 AND MORE
 
-## ⚙️MANUAL SSH BANER ADD COMMAND
+## ⚙️MANUAL SSH BANNER ADD COMMAND
 
-📌DKSSH MANAGER
+## 📌DKSSH MANAGER
 යාවත්කාලීන කිරීම 09/10/2021 - සම්පූර්ණ කරන ලද ව්‍යාපෘතිය
 
-UPDATE 09/10/2021 - COMPLETED PROJECT
+## UPDATE 09/10/2021 - COMPLETED PROJECT
 
 ## 🌐LANGUAGE
 
@@ -35,19 +35,20 @@ UPDATE 09/10/2021 - COMPLETED PROJECT
 ## ❤️REMODIFIED BY ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️  FROM SRILANKA 🇱🇰 ...❤️
 
 ## :BOOK: INSTALLATION
+```
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
+```
 
-## apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
-
-* 💎NO MINING!
-* 💎NO HACKING!
-* 💎FREE VERSION
-* 💎WITHOUT KEYS!
-* 💎CONTROL WITH TG BOT
-* 💎RELEASED FILES (DECENCRYPTED)
-* 💎WITHOUT TROJANO VIRUS (BOTNET)
+## * 💎NO MINING!
+## * 💎NO HACKING!
+## * 💎FREE VERSION
+## * 💎WITHOUT KEYS!
+## * 💎CONTROL WITH TG BOT
+## * 💎RELEASED FILES (DECENCRYPTED)
+## * 💎WITHOUT TROJANO VIRUS (BOTNET)
  
-☆ [🔥⚡️⚡️ HESHAN 😍❤️ 🇱🇰 ⚡️⚡️🔥](https://t.me/Dk_king_offcial) ☆
- #TEAM OF : ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️
+## ☆ [🔥⚡️⚡️ HESHAN 😍❤️ 🇱🇰 ⚡️⚡️🔥](https://t.me/Dk_king_offcial) ☆
+ ## TEAM OF : ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️
  
  
 
