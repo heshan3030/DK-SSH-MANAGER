@@ -3,24 +3,24 @@
 
 
 
-## 📌DK SSH NEW UPDATE V1
+# 📌DK SSH NEW UPDATE V1
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/heshan3030/DK-SSH-MANAGER)
 
 
 
-## ⚙️HAVE TELEGRAM SSH CREATE BOT
+### ⚙️HAVE TELEGRAM SSH CREATE BOT
 
-## ⚙️HAVE SSH ACCOUNT BANNER NAME CHANGE
+### ⚙️HAVE SSH ACCOUNT BANNER NAME CHANGE
 
-## ⚙️LIMIT PROBLEM FIXED
+### ⚙️LIMIT PROBLEM FIXED
 
-## ⚙️NEW TAB USER-LIMIT
+### ⚙️NEW TAB USER-LIMIT
 
-## ⚙️TELEGRAM BOT RESELLER
+### ⚙️TELEGRAM BOT RESELLER
 
-## ⚙️MANUAL SSH BANNER ADD COMMAND
+### ⚙️MANUAL SSH BANNER ADD COMMAND
 
-## ⚙️ AUTO GENARATE SYSTEM
+### ⚙️ AUTO GENARATE SYSTEM
 
 <img align="middle" src="https://te.legra.ph/file/390a49e01ab1dc23b4ee0.jpg" width='300'/>
 
@@ -30,19 +30,19 @@
 
 
 
-## යාවත්කාලීන කිරීම 09/10/2021 - සම්පූර්ණ කරන ලද ව්‍යාපෘතිය
+### යාවත්කාලීන කිරීම 09/10/2021 - සම්පූර්ණ කරන ලද ව්‍යාපෘතිය
 
-## UPDATE 09/10/2021 - COMPLETED PROJECT
+### UPDATE 09/10/2021 - COMPLETED PROJECT
 
-## 🌐LANGUAGE
+# 🌐LANGUAGE
 
 ## ✅ ENGLISH
 
 ## ✅ SINHALA
 
-## ❤️REMODIFIED BY ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️  FROM SRILANKA 🇱🇰 ...❤️
+# ❤️REMODIFIED BY ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️  FROM SRILANKA 🇱🇰 ...❤️
 
-## INSTALLATION 📖
+# INSTALLATION 📖
 ```
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
 ```
@@ -56,7 +56,7 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/he
 ## * 💎WITHOUT TROJANO VIRUS (BOTNET)
  
 ## ☆ [🔥⚡️⚡️ HESHAN 😍❤️ 🇱🇰 ⚡️⚡️🔥](https://t.me/Dk_king_offcial) ☆
- ## TEAM OF : ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️
+ # TEAM OF : ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️
  
  
 
