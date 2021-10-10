@@ -65,5 +65,3 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/he
  
 ## [WHATSAPP GROUP](https://chat.whatsapp.com/LTvwI9vghx94e4mixI0ljQ) 
 
-<img align="left" src="https://te.legra.ph/file/c9a499958d86e3957490c.jpg" width='100'/>
-## [FACEBOOK GROUP](https://www.facebook.com/groups/278275839702838/?ref=share) 
