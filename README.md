@@ -62,4 +62,4 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/he
  
  ## *Get the latest News about Web Development, Open Source, Tooling, Server & Security*
  
-![Github].[https://github.frapsoft.com/social/github.png](https://github.com/heshan3030)
+[![whatsapp](https://te.legra.ph/file/919bd7240d143461548c5.jpg)(https://chat.whatsapp.com/LTvwI9vghx94e4mixI0ljQ)
