@@ -62,15 +62,15 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/he
  
  ## *Get the latest News about Web Development, Open Source, Tooling, Server & Security*
  <img align="left" src="https://te.legra.ph/file/6829554c1e203192528bc.jpg" width='300'/>
- 
+ =======================
 # [WHATSAPP](https://chat.whatsapp.com/LTvwI9vghx94e4mixI0ljQ)
-
+=======================
 # [TELEGRAM ](https://t.me/datamaruwa)
-
+=======================
 # [FACEBOOK](https://www.facebook.com/groups/278275839702838/?ref=share)
-
+=======================
 # [INTRAGRAM](https://www.instagram.com/p/CU4IIuHvALY/?utm_medium=copy_link) 
-
+=======================
 
 
 
