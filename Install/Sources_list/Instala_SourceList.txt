@@ -1,7 +1,7 @@
 Ubuntu 16 
 
-wget -O /etc/apt/sources.list https://raw.githubusercontent.com/Bcoderx6/BLACKSSH-MANAGER/master/Install/Sources_list/16.04/sources.list
+wget -O /etc/apt/sources.list https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Install/Sources_list/16.04/sources.list
 
 Ubuntu 18
 
-wget -O /etc/apt/sources.list https://raw.githubusercontent.com/Bcoderx6/BLACKSSH-MANAGER/master/Install/Sources_list/18.04/sources.list
+wget -O /etc/apt/sources.list https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Install/Sources_list/18.04/sources.list
