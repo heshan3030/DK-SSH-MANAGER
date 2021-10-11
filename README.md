@@ -69,6 +69,7 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/he
 
 
 # [WHATSAPP](https://chat.whatsapp.com/LTvwI9vghx94e4mixI0ljQ)
+==============================================
 
 # [TELEGRAM ](https://t.me/datamaruwa)
 
