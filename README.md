@@ -61,7 +61,7 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/he
  # Contact / Social Media
  
  ## *Get the latest News about Web Development, Open Source, Tooling, Server & Security*
- <img align="left" src="https://te.legra.ph/file/6829554c1e203192528bc.jpg" width='200'/>) 
+ <img align="left" src="https://te.legra.ph/file/6829554c1e203192528bc.jpg" width='300'/>) 
 
 
 
