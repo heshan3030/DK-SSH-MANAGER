@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER
 https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER
 /master/Install/sshd_config
 
-https://raw.githubusercontent.com/Bcoderx6/BLACKSSH-MANAGER/master/Install/addIP
+https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Install/addIP
 
 
 https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER
