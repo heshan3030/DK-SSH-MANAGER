@@ -64,6 +64,8 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/he
  <img align="left" src="https://te.legra.ph/file/6829554c1e203192528bc.jpg" width='200'/>) 
 
 
+
+
 # [WHATSAPP](https://chat.whatsapp.com/LTvwI9vghx94e4mixI0ljQ)
 
 # [TELEGRAM ](https://t.me/datamaruwa)
