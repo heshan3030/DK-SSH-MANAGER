@@ -337,7 +337,7 @@ echo "$username $sshlimiter" >>/root/usuarios.db
                 echo -e "\033[1;32m [-] ═───────◇───────═"
                 echo -e "\033[1;32m࿂ Badvpn •  7300"
                 echo -e "\033[1;32m [-] ═───────◇───────═"
-                echo -e "\033[1;32m›☬[•] SCRIPTS ═◇ ⚡DKSSH⚡ ◇═ [•]☬"
+                echo -e "\033[1;32m›☬[•] SCRIPTS ═◇ ⚡DKSSH⚡ ◇═"
 		echo -e "\033[1;32m======🚀ᴛʜᴀɴᴋs ғᴏʀ ᴜsᴇ ᴏᴜʀ ssʜ🚀======"
 		sleep 1
 		function aguarde() {
@@ -375,7 +375,7 @@ echo "$username $sshlimiter" >>/root/usuarios.db
 		clear
 		echo -e "\E[44;1;37m       ✅SSH ACCOUNT CREATED✅      \E[0m"
 		echo ""
-		echo -e "\033[1;32m♻️PAID PRIVATE SSH♻️ \n🔥⚡️⚡️ CREATED BY DATA-KING-OFFCIAL ⚡️⚡🔥\n ♻️"
+		echo -e "\033[1;32m♻️PAID PRIVATE SSH♻️ \n⚡️⚡️CREATED BY DATA-KING-OFFCIAL⚡️⚡️"
                 echo ""
                 echo -e "\033[1;32m$banername"
                 echo -e "\033[1;32m=====sᴄʀɪᴘᴛ ʙʏ ᴅᴀᴛᴀᴋɪɴɢᴅᴏᴍ====="
@@ -394,7 +394,7 @@ echo "$username $sshlimiter" >>/root/usuarios.db
 		echo -e "\033[1;32mᗚ Password • ๛ \033[1;37m$password"
 		echo -e "\033[1;32mᗚ Expire DATE • \033[1;37m$gui"
 		echo -e "\033[1;32mᗚ Limit • \033[1;37m$sshlimiter"
-		echo ""
+		apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
                 echo -e "\033[1;32m࿂ SSH •  22"
                 echo -e "\033[1;32m࿂ SSL •  443"
                 echo -e "\033[1;32m࿂ Squid  •  8080"
@@ -402,15 +402,15 @@ echo "$username $sshlimiter" >>/root/usuarios.db
                 echo -e "\033[1;32m [-] ═───────◇───────═"
                 echo -e "\033[1;32m࿂ Badvpn •  7300"
                 echo -e "\033[1;32m [-] ═───────◇───────═"
-		echo -e "\033[1;32m›☬[•] SCRIPTS ═◇ ⚡DKSSH⚡◇═ [•]☬"
-                 echo -e "\033[1;32m======🚀ᴛʜᴀɴᴋs ғᴏʀ ᴜsᴇ ᴏᴜʀ ssʜ🚀======"
+		echo -e "\033[1;32m›☬[•] SCRIPTS ═◇ ⚡DKSSH⚡◇═"
+                echo -e "\033[1;32m======🚀ᴛʜᴀɴᴋs ғᴏʀ ᴜsᴇ ᴏᴜʀ ssʜ🚀======"
 		
 	}
 } || {
 	clear
 	echo -e "\E[44;1;37m    ✅SSH ACCOUNT CREATED✅  \E[0m"
 	echo ""
-	echo -e "\033[1;32m♻️Paid Privet SSH♻️ \n🔥⚡️⚡️ CREATED BY DATA-KING-OFFCIAL ⚡️⚡🔥  \n ♻️"
+	echo -e "\033[1;32m♻️PAID PRIVATE SSH♻️ \n⚡️⚡️CREATED BY DATA-KING-OFFCIAL⚡️⚡️"
         echo ""
         echo -e "\033[1;32m$banername"
         echo -e "\033[1;32m=====sᴄʀɪᴘᴛ ʙʏ ᴅᴀᴛᴀᴋɪɴɢᴅᴏᴍ====="
@@ -437,7 +437,7 @@ echo "$username $sshlimiter" >>/root/usuarios.db
         echo -e "\033[1;32m [-] ═───────◇───────═"
         echo -e "\033[1;32m࿂ Badvpn •  7300"
         echo -e "\033[1;32m [-] ═───────◇───────═"
-	echo -e "\033[1;32m›☬[•] SCRIPTS ═◇ ⚡DKSSH⚡◇═ [•]☬"
+	echo -e "\033[1;32m›☬[•] SCRIPTS ═◇ ⚡DKSSH⚡◇═"
         echo -e "\033[1;32m======🚀ᴛʜᴀɴᴋs ғᴏʀ ᴜsᴇ ᴏᴜʀ ssʜ🚀======"
 	
 }
