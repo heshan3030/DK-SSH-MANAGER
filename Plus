@@ -45,7 +45,7 @@ echo -e "\033[1;31m════════════════════�
 tput setaf 7 ; tput setab 4 ; tput bold ; printf '%40s%s%-12s\n' "🙏DK-KSSH කළමනාකරුට සාදරයෙන් පිළිගනිමු🙏" ; tput sgr0
 echo -e "\033[1;31m════════════════════════════════════════════════════\033[0m"
 echo ""
-echo -e "             \033[1;31mATTENTION! \033[1;33mTHIS SCRIPT WILL!\033[0m"
+echo -e "           \033[1;31mATTENTION! \033[1;33mNOW INSTALL DKSSH SCRIPT!\033[0m"
 echo ""
 echo -e "\033[1;31m• \033[1;33mමෙවලම් කට්ටලයක් ස්ථාපනය කිරීම\033[0m" 
 echo -e "\033[1;33m නෙට්වර්ක්, සිස්ටම් සහ පරිශීලකයින්ගේ කළමනාකරණය සඳහා\033[0m"
