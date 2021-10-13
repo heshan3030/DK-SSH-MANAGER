@@ -5,8 +5,15 @@
 
 # 📌DK SSH NEW UPDATE V1
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/heshan3030/DK-SSH-MANAGER)
-
-
+![](https://img.shields.io/badge/Ubuntu-14.04-orange)
+![](https://img.shields.io/badge/Ubuntu-14.10-orange)
+![](https://img.shields.io/badge/Ubuntu-16.04-orange)
+![](https://img.shields.io/badge/Ubuntu-16.10-orange)
+![](https://img.shields.io/badge/Ubuntu-18.04-orange)
+![](https://img.shields.io/badge/Ubuntu-18.10-orange)
+![](https://img.shields.io/badge/Ubuntu-19.04-orange)
+![](https://img.shields.io/badge/Ubuntu-19.10-orange)
+![](https://img.shields.io/badge/Ubuntu-20.10-orange)
 
 ### ⚙️HAVE TELEGRAM SSH CREATE BOT
 
