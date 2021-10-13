@@ -16,19 +16,19 @@
 ![](https://img.shields.io/badge/Ubuntu-20.04-orange)
 ![](https://img.shields.io/badge/Ubuntu-20.10-orange)
 
-### ⚙️HAVE TELEGRAM SSH CREATE BOT
+## ⚙️HAVE TELEGRAM SSH CREATE BOT
 
-### ⚙️HAVE SSH ACCOUNT BANNER NAME CHANGE
+## ⚙️HAVE SSH ACCOUNT BANNER NAME CHANGE
 
-### ⚙️LIMIT PROBLEM FIXED
+## ⚙️LIMIT PROBLEM FIXED
 
-### ⚙️NEW TAB USER-LIMIT
+## ⚙️NEW TAB USER-LIMIT
 
-### ⚙️TELEGRAM BOT RESELLER
+## ⚙️TELEGRAM BOT RESELLER
 
-### ⚙️MANUAL SSH BANNER ADD COMMAND
+## ⚙️MANUAL SSH BANNER ADD COMMAND
 
-### ⚙️ AUTO GENARATE SYSTEM
+## ⚙️ AUTO GENARATE SYSTEM
 
 <img align="middle" src="https://te.legra.ph/file/390a49e01ab1dc23b4ee0.jpg" width='300'/>
 
