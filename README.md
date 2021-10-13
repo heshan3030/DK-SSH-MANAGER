@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/Ubuntu-18.10-orange)
 ![](https://img.shields.io/badge/Ubuntu-19.04-orange)
 ![](https://img.shields.io/badge/Ubuntu-19.10-orange)
+![](https://img.shields.io/badge/Ubuntu-20.04-orange)
 ![](https://img.shields.io/badge/Ubuntu-20.10-orange)
 
 ### ⚙️HAVE TELEGRAM SSH CREATE BOT
