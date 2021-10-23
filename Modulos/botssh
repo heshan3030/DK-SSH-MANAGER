@@ -55,7 +55,7 @@ fun_botOnOff () {
           menu
       } || {
           clear
-          echo -e "\033[1;32mSTOPPING BOT DK-KSSH ... \033[0m\n"
+          echo -e "\033[1;32mSTOPPING BOT DK-SSH ... \033[0m\n"
           fun_bot2 () {
               screen -r -S "bot_plus" -X quit
               screen -wipe 1>/dev/null 2>/dev/null
