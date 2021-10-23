@@ -2256,7 +2256,7 @@ while :; do
                             file_id=($file_id)
                             ShellBot.getFile --file_id "${file_id[0]}"
                             ShellBot.downloadFile --file_path ${return[file_path]} --dir "/tmp/file" && {
-                                msg='*✅  SUCCESSFULLY HOSTED FILE *\n\n'
+                                msg='*✅ SUCCESSFULLY HOSTED FILES 📂 *\n\n'
                                 msg+="*📤 Information*\n\n"
                                 msg+="*Name*: ${message_document_file_name}\n"
                                 msg+="*More information*: /etc/bot/arquivos"
