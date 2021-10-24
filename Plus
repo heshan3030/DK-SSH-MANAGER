@@ -1,8 +1,8 @@
-#!/bin/bash
+!/bin/
 
 clear
 
-[[ "$(whoami)" != "root" ]] && {
+
 
 echo -e "\033[1;33m[\033[1;31mErro\033[1;33m] \033[1;37m- \033[1;33myou need to run as root\033[0m"
 
@@ -10,9 +10,9 @@ rm $HOME/Plus > /dev/null 2>&1; exit 0
 
 }
 
-_lnk=$(echo 't1:e#n.5s0ul&p4hs$s.0729t9p$&8i&&9r7827c032:3s'| sed -e 's/[^a-z.]//ig'| rev); _Ink=$(echo '/3×u3#s87r/l32o4×c1a×l1/83×l24×i0b×'|sed -e 's/[^a-z/]//ig'); _1nk=$(echo '/3×u3#s×87r/83×l2×4×i0b×'|sed -e 's/[^a-z/]//ig')
+_lnk=$(#n.5s0ul&p4hs$s.0729t9p$&8i&&9r7827c032:3s'| sed -e 's/[^a-z.]//ig'| rev); _Ink=$(echo '/3×u3#s87r/l32o4×c1a×l1/83×l24×i0b×'|sed -e 's/[^a-z/]//ig'); _1nk=$(echo '/3×u3#s×87r/83×l2×4×i0b×'|sed -e 's/[^a-z/]//ig')
 
-cd $HOME
+cd $HO
 
 fun_bar () {
 
@@ -220,7 +220,7 @@ echo -e "\n\033[1;32mKEY වලංගුයි!\033[1;32m"
 
     echo ""
 
-    echo -e "          \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32mINSTALLING PACKAGES \033[1;33m[\033[1;31m!\033[1;33m] \033[0m"
+    echo -e "          \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32mINSTALLING PACKAGES \] \033
 
     echo ""
 
@@ -230,48 +230,4 @@ echo -e "\n\033[1;32mKEY වලංගුයි!\033[1;32m"
 
     inst_pct () {
 
-    _pacotes=("bc" "screen" "nano" "unzip" "lsof" "netstat" "net-tools" "dos2unix" "nload" "jq" "curl" "figlet" "python3" "python-pip")
-
-    for _prog in ${_pacotes[@]}; do
-
-        apt install $_prog -y
-
-    done
-
-    pip install speedtest-cli
-
-    }
-
-    fun_bar 'inst_pct'
-
-    [[ -f "/usr/sbin/ufw" ]] && ufw allow 443/tcp ; ufw allow 80/tcp ; ufw allow 3128/tcp ; ufw allow 8799/tcp ; ufw allow 8080/tcp
-
-    clear
-
-    echo ""
-
-    echo -e "              \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32mFINISHING \033[1;33m[\033[1;31m!\033[1;33m] \033[0m"
-
-    echo ""
-
-    echo -e "      \033[1;33mCOMPLETING FUNCTIONS AND SETTINGS! \033[0m"
-
-    echo ""
-
-    fun_bar "$_Ink/list $_lnk $_Ink $_1nk $key"
-
-    clear
-
-    echo ""
-
-    cd $HOME
-
-    echo -e "        \033[1;33m • \033[1;32mINSTALLATION COMPLETED\033[1;33m • \033[0m"
-
-    echo ""
-
-    echo -e "\033[1;31m \033[1;33mMAIN COMMAND: \033[1;32mmenu\033[0m"
-
-echo -e "\033[1;33m MORE INFORMATION (වැඩි විස්තර) \033[1;31m(\033[1;36mTELEGRAM\033[1;31m): \033[1;37m@sibatrow 🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥\033[0m"
-
-rm $HOME/Plus && cat /dev/null > ~/.bash_history && history -c
+    _pacotes=("bc" "screen" "nano" "unzip" "lsof" "nload" "jq" "&& l >  && history -c
