@@ -2143,7 +2143,7 @@ while :; do
                     alterar_limite_user $(cat /tmp/name-l) ${message_text[$id]}
                     [[ "$_erro" == '1' ]] && break
                     ShellBot.sendMessage --chat_id ${message_from_id[$id]} \
-                        --text "$(echo -e "=×=×=×=×=×=×=×=×=×=×=×\n<b>✅ CHANGED LIMIT !</b> !\n=⚡️⚡️ BY DATAKINGDOM ⚡️⚡\n=\n=×=×=×=×=×=×=×=×=×=×=×\n\n<b>User:</b> $(cat /tmp/name-l)\n<b>New Limit:</b> ${message_text[$id]}")" \
+                        --text "$(echo -e "=×=×=×=×=×=×=×=×=×=×=×\n<b>✅ CHANGED LIMIT!</b> !\n=⚡️⚡️ BY DATAKINGDOM ⚡️⚡\n=\n=×=×=×=×=×=×=×=×=×=×=×\n\n<b>User:</b> $(cat /tmp/name-l)\n<b>New Limit:</b> ${message_text[$id]}")" \
                         --parse_mode html
                     rm /tmp/name-l >/dev/null 2>&1
                     ;;
