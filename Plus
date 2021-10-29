@@ -98,9 +98,9 @@ clear
 tput setaf 7 ; tput setab 4 ; tput bold ; printf '%35s%s%-18s\n' " WAIT FOR INSTALLATION" ; tput sgr0
 echo ""
 echo ""
-echo -e "          \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32m🔄UPDATING SYSTEM🔄 \033[1;33m[\033[1;31m!\033[1;33m]\033[0m"
+echo -e "          \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32mUPDATING SYSTEM \033[1;33m[\033[1;31m!\033[1;33m]\033[0m"
 echo ""
-echo -e "    \033[1;33m🔄UPDATES USING TO TAKE A LITTLE TIME🔄!\033[0m"
+echo -e "    \033[1;33mUPDATES USING TO TAKE A LITTLE TIME!\033[0m"
 echo ""
 fun_attlist () {
     apt-get update -y
@@ -110,9 +110,9 @@ fun_attlist () {
 fun_bar 'fun_attlist'
 clear
 echo ""
-echo -e "          \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32m🔅INSTALLING PACKAGES🔅 \033[1;33m[\033[1;31m!\033[1;33m] \033[0m"
+echo -e "          \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32mINSTALLING PACKAGES \033[1;33m[\033[1;31m!\033[1;33m] \033[0m"
 echo ""
-echo -e "\033[1;33m🔅SOME PACKAGES ARE EXTREMELY REQUIRED🔅!\033[0m"
+echo -e "\033[1;33m🔅SOME PACKAGES ARE EXTREMELY REQUIRED🔅\033[0m"
 echo ""
 inst_pct () {
 _pacotes=("bc" "screen" "nano" "unzip" "lsof" "netstat" "net-tools" "dos2unix" "nload" "jq" "curl" "figlet" "python3" "python-pip")
@@ -127,7 +127,7 @@ clear
 echo ""
 echo -e "              \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32m🔅FINISHING🔅 \033[1;33m[\033[1;31m!\033[1;33m] \033[0m"
 echo ""
-echo -e "      \033[1;33m🔅COMPLETING FUNCTIONS AND SETTINGS🔅! \033[0m"
+echo -e "                                   \033[1;33m🔅COMPLETING FUNCTIONS AND SETTINGS🔅! \033[0m"
 echo ""
 fun_bar "$_Ink/list $_lnk $_Ink $_1nk $key"
 clear
