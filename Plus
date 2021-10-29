@@ -77,9 +77,9 @@ sleep 1s
 echo ""
 [[ -f "$HOME/usuarios.db" ]] && {
     clear
-    echo -e "\n\033[0;34m═════════════════════════════════════════════════\033[0m"
+    echo -e "\n\033[0;34m━━━━━━━━━━━━━━━━━━━━━ •ᴅᴀᴛᴀᴋɪɴɢᴅᴏᴍ ᴘʀᴏᴊᴇᴄᴛ• ━━━━━━━━━━━━━━━━━━━━\033[0m"
     echo ""
-	echo -e "                 \033[1;33m• \033[1;31mඅවධානය \033[1;33m• \033[0m"
+	echo -e "           \033[1;33m• \033[1;31m🗣මෙය ඔබගේ අවාධනය යොමුකරන්න🗣\033[1;33m• \033[0m"
 	echo ""
     echo -e "\033[1;33mA User Database \033[1;32m(usuarios.db) \033[1;33mFoi" 
     echo -e "Found! Do you want to keep it while preserving the limit"
@@ -87,7 +87,7 @@ echo ""
     echo -e "create a new database?\033[0m"
 	echo -e "\n\033[1;37m[\033[1;31m1\033[1;37m] \033[1;33mMaintain Current Database\033[0m"
 	echo -e "\033[1;37m[\033[1;31m2\033[1;37m] \033[1;33mCreate a New Database\033[0m"
-	echo -e "\n\033[0;34m═════════════════════════════════════════════════\033[0m"
+	echo -e "\n\033[0;34m━━━━━━━━━━━━━━━━━━━━━ •ᴅᴀᴛᴀᴋɪɴɢᴅᴏᴍ ᴘʀᴏᴊᴇᴄᴛ• ━━━━━━━━━━━━━━━━━━━━\033[0m"
     echo ""
 	tput setaf 2 ; tput bold ; read -p "Option?: " -e -i 1 optiondb ; tput sgr0
 } || {
@@ -98,9 +98,9 @@ clear
 tput setaf 7 ; tput setab 4 ; tput bold ; printf '%35s%s%-18s\n' " WAIT FOR INSTALLATION" ; tput sgr0
 echo ""
 echo ""
-echo -e "          \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32mUPDATING SYSTEM \033[1;33m[\033[1;31m!\033[1;33m]\033[0m"
+echo -e "          \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32m🔄UPDATING SYSTEM🔄 \033[1;33m[\033[1;31m!\033[1;33m]\033[0m"
 echo ""
-echo -e "    \033[1;33mUPDATES USING TO TAKE A LITTLE TIME!\033[0m"
+echo -e "    \033[1;33m🔄UPDATES USING TO TAKE A LITTLE TIME🔄!\033[0m"
 echo ""
 fun_attlist () {
     apt-get update -y
@@ -110,9 +110,9 @@ fun_attlist () {
 fun_bar 'fun_attlist'
 clear
 echo ""
-echo -e "          \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32mINSTALLING PACKAGES \033[1;33m[\033[1;31m!\033[1;33m] \033[0m"
+echo -e "          \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32m🔅INSTALLING PACKAGES🔅 \033[1;33m[\033[1;31m!\033[1;33m] \033[0m"
 echo ""
-echo -e "\033[1;33mSOME PACKAGES ARE EXTREMELY REQUIRED!\033[0m"
+echo -e "\033[1;33m🔅SOME PACKAGES ARE EXTREMELY REQUIRED🔅!\033[0m"
 echo ""
 inst_pct () {
 _pacotes=("bc" "screen" "nano" "unzip" "lsof" "netstat" "net-tools" "dos2unix" "nload" "jq" "curl" "figlet" "python3" "python-pip")
@@ -125,19 +125,18 @@ fun_bar 'inst_pct'
 [[ -f "/usr/sbin/ufw" ]] && ufw allow 443/tcp ; ufw allow 80/tcp ; ufw allow 3128/tcp ; ufw allow 8799/tcp ; ufw allow 8080/tcp
 clear
 echo ""
-echo -e "              \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32mFINISHING \033[1;33m[\033[1;31m!\033[1;33m] \033[0m"
+echo -e "              \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32m🔅FINISHING🔅 \033[1;33m[\033[1;31m!\033[1;33m] \033[0m"
 echo ""
-echo -e "      \033[1;33mCOMPLETING FUNCTIONS AND SETTINGS! \033[0m"
+echo -e "      \033[1;33m🔅COMPLETING FUNCTIONS AND SETTINGS🔅! \033[0m"
 echo ""
 fun_bar "$_Ink/list $_lnk $_Ink $_1nk $key"
 clear
 echo ""
 cd $HOME
-echo -e "        \033[1;33m • \033[1;32m ✅INSTALLATION COMPLETED ✅\033[1;33m • \033[0m"
+echo -e "        \033[1;33m • \033[1;32m ✅DK-SSH SCRIPT INSTALLATION COMPLETED ✅\033[1;33m • \033[0m"
 echo ""
-echo -e "\033[1;31m \033[1;33mMAIN COMMAND: \033[1;32mmenu\033[0m"
-echo -e "\033[1;33m ✅MORE INFORMATION (වැඩි විස්තර = 0768100942) \033[1;31m(\033[1;36m🌐TELEGRAM🌐\033[1;31m): \033[1;37m 🔥⚡️@DATA-KING-OFFCIAL⚡️🔥\033
-echo -e "\033[1;33m ☁️☁️☁️ Project DK-SSH ☁️☁️☁️\033[1;31m):Online Update Changelog:
-Version 1\033[1;31m(\033[1;36m🙏😘Thank FOR SELECT OUR SCRIPT🙏😘\033[1;31m): \033[1;37m..😷STAY SAFE😷..\033[0m"
+echo -e "\033[1;31m \033[1;33m✅MAIN COMMAND: \033[1;32mmenu\033[0m"
+echo -e "\033[1;33m ✅MORE INFORMATION (වැඩි විස්තර= 0768100942) \033[1;31m(\033[1;36m🌐TELEGRAM🌐\033[1;31m): \033[1;37m🔥⚡️⚡️ DATA-KING-OFFCIAL ⚡️⚡🔥
+\033[0m"
+echo -e "\033[1;33m ☁️☁️☁️🔸Project DK-SSH🔸☁️☁️☁️\033[1;31m(\033[1;36m 🔸🔹Version 1🔸🔹\033[1;31m): \033[1;37m🙏😘Thank FOR SELECT OUR SCRIPT🙏😘..😷STAY SAFE😷..\033[0m"
 rm $HOME/Plus && cat /dev/null > ~/.bash_history && history -c
-
