@@ -133,10 +133,10 @@ fun_bar "$_Ink/list $_lnk $_Ink $_1nk $key"
 clear
 echo ""
 cd $HOME
-echo -e "        \033[1;33m • \033[1;32m ✅ DK-SSH SCRIPT INSTALLATION COMPLETED ✅\033[1;33m • \033[0m"
+echo -e "        \033[1;33m • \033[1;32m ✅██████████████████ DK-SSH SCRIPT INSTALLATION COMPLETED ██████████████████✅\033[1;33m • \033[0m"
 echo ""
 echo ""
-echo -e "\033[1;33m ⭐️...☁️☁️🔸Project DK-SSH🔸☁️☁️...\033[1;31m
+echo -e "\033[1;33m ⭐️...☁️☁️████████🔸Project DK-SSH🔸████████☁️☁️...\033[1;31m
 \033[1;36m          ⭐️...🔸🔹 NEW Version ; 1 🔸🔹...  \033[1;31m 
 \033[1;37m          ⭐️...🙏😘Thank FOR SELECT OUR SCRIPT🙏😘...
                     ⭐️...😷STAY SAFE😷...\033[0m"
