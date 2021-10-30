@@ -70,6 +70,7 @@ wget -O /bin/menuV2 https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/
 wget -O /bin/menuV3 https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/Install/menuV3 > /dev/null 2>&1; chmod +x /bin/menuV3
 wget -O /bin/menuV4 https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Install/menuV4 > /dev/null 2>&1; chmod +x /bin/menuV4
 rm versao* > /dev/null 2>&1; wget https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/versao > /dev/null 2>&1
+#-----------------------------------------------------------------------------------------------------------------
 echo -e "\n\033[1;32mKEY වලංගුයි!\033[1;32m"
 sleep 1s
 echo ""
