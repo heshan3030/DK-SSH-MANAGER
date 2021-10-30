@@ -2143,7 +2143,7 @@ while :; do
                     alterar_limite_user $(cat /tmp/name-l) ${message_text[$id]}
                     [[ "$_erro" == '1' ]] && break
                     ShellBot.sendMessage --chat_id ${message_from_id[$id]} \
-                        --text "$(echo -e "=×=×=×=×=×=×=×=×=×=×=×\n<b>✅ CHANGED LIMIT!</b> !\n=⚡️⚡️ BY DATAKINGDOM ⚡️⚡\n=\n=×=×=×=×=×=×=×=×=×=×=×\n\n<b>User:</b> $(cat /tmp/name-l)\n<b>New Limit:</b> ${message_text[$id]}")" \
+                        --text "$(echo -e "=×=×=×=×=×=×=×=×=×=×=×\n<b>✅ CHANGED LIMIT !</b> !\n=⚡️⚡️ BY DATAKINGDOM ⚡️⚡\n=\n=×=×=×=×=×=×=×=×=×=×=×\n\n<b>User:</b> $(cat /tmp/name-l)\n<b>New Limit:</b> ${message_text[$id]}")" \
                         --parse_mode html
                     rm /tmp/name-l >/dev/null 2>&1
                     ;;
@@ -2256,7 +2256,7 @@ while :; do
                             file_id=($file_id)
                             ShellBot.getFile --file_id "${file_id[0]}"
                             ShellBot.downloadFile --file_path ${return[file_path]} --dir "/tmp/file" && {
-                                msg='*✅ SUCCESSFULLY HOSTED FILES 📂 *\n\n'
+                                msg='*✅  SUCCESSFULLY HOSTED FILE *\n\n'
                                 msg+="*📤 Information*\n\n"
                                 msg+="*Name*: ${message_document_file_name}\n"
                                 msg+="*More information*: /etc/bot/arquivos"
@@ -2307,10 +2307,10 @@ while :; do
                     [[ "$_erro" == '1' ]] && break
                     echo "Nome: ${message_text[$id]}" >$CAD_ARQ
                     ShellBot.sendMessage --chat_id ${message_from_id[$id]} \
-                        --text 'Inform his user [Ex:@Dk_king_offcial]:' \
+                        --text 'Inform his user [Ex: @yash]:' \
                         --reply_markup "$(ShellBot.ForceReply)"
                     ;;
-                'Inform his user [Ex:@Dk_king_offcial]:')
+                'Inform his user [Ex: @yash]:')
                     verifica_acesso
                     [[ "$_erro" == '1' ]] && break
                     _VAR1=$(echo -e ${message_text[$id]} | awk -F '@' {'print $2'})
@@ -2364,7 +2364,7 @@ while :; do
                     _clientrev=$(cat $CAD_ARQ)
                     criar_rev $CAD_ARQ
                     ShellBot.sendMessage --chat_id ${message_from_id[$id]} \
-                        --text "✅ SUCCESSFULLY CREATED ✅\n ⚡️⚡️ BY DATAKINGDOM ⚡️⚡\n\n$(<$CAD_ARQ)\n\nBOT: @${message_reply_to_message_from_username}" \
+                        --text "✅ SUCCESSFULLY CREATED ✅\n ⚡️⚡️ BY DATAKINGDOM ⚡️⚡ \n\n$(<$CAD_ARQ)\n\nBOT: @${message_reply_to_message_from_username}" \
                         --parse_mode html
                     ;;
                     # REMOVE REVENDEDOR
@@ -2555,3 +2555,4 @@ while :; do
     done
 done
 #FIM
+
