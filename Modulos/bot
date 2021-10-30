@@ -74,7 +74,7 @@ fun_menu() {
         return 0
     fi
 }
-
+ 
 fun_ajuda() {
     [[ ${message_chat_id[$id]} == "" ]] && {
         id_chatuser="${callback_query_message_chat_id[$id]}"
