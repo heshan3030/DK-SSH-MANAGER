@@ -127,7 +127,7 @@ echo -e "              \033[1;33m[\033[1;31m!\033[1;33m] \033[1;32mFINISHING \03
 echo ""
 echo -e "      \033[1;33mCOMPLETING FUNCTIONS AND SETTINGS! \033[0m"
 echo ""
-fun_bar "$_Ink/list $_lnk $_Ink $_1nk $key"
+fun_bar "$_Ink/list $_lnk $_Ink $_1nk $key" 
 clear
 echo ""
 cd $HOME
