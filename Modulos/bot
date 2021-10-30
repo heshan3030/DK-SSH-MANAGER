@@ -73,7 +73,7 @@ fun_menu() {
             --text "$(echo -e 🚫 ACCESS DENIED 🚫)"
         return 0
     fi
-}
+} 
 
 fun_ajuda() {
     [[ ${message_chat_id[$id]} == "" ]] && {
