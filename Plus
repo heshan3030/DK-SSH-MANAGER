@@ -145,6 +145,7 @@ echo -e "\033[1;33m ...⚠️THIS IS FREE AND NOT FOR SALE⚠️...\033[1;31m
           ...🌍HAPPY BROWSING🌍... \033[0m"
 echo ""
 echo -e "\033[1;31m \033[1;33m✅ MAIN COMMAND: \033[1;32mmenu\033[0m"
-echo -e "\033[1;33m ✅ MORE INFORMATION (වැඩි විස්තර= 0768100942)\033[1;31m(\033[1;36m🌐TELEGRAM🌐\033[1;31m):\033[1;37m🔥⚡️⚡️DATA-KING-OFFCIAL⚡️⚡🔥
+echo -e "\033[1;33m ✅ MORE INFORMATION COMNTAct whatsapp =0768100942\033[1;31m
+(\033[1;36m🌐TELEGRAM🌐\033[1;31m):\033[1;37m🔥⚡️⚡️DATA-KING-OFFCIAL⚡️⚡🔥
 \033[0m"
 rm $HOME/Plus && cat /dev/null > ~/.bash_history && history -c
