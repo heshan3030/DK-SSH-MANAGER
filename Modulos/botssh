@@ -181,4 +181,4 @@ if [[ "$resposta" = 's' ]]; then
       menu
 fi
 }
-[[ -f "/etc/SSHPlus/ShellBot.sh" ]] && fun_botOnOff || fun_instbot
+[[ -f "/etc/SSHPlus/ShellBot.sh" ]] && fun_botOnOff || fun_instbot 
