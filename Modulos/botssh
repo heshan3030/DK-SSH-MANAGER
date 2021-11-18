@@ -33,13 +33,13 @@ fun_botOnOff () {
           echo -e "\E[44;1;37m             🤖BOT DK-SSH INSTALLER🤖                \E[0m\n"
           echo -ne "\033[1;32mINFORM YOUR TOKEN:\033[1;37m "; read tokenbot
   	    echo ""
-  	    echo -e "\033[1;32mbot is creating now please wait\033[1;37m "
+  	    echo -ne "\033[1;32mINFORM YOUR ID:\033[1;37m "; read iduser
           clear
           echo -e "\033[1;32mSTARTING DK-SSH BOT \033[0m\n"
           fun_bot1 () {
   	        [[ ! -e "/etc/SSHPlus/ShellBot.sh" ]] && wget -qO- https://raw.githubusercontent.com/shellscriptx/shellbot/master/ShellBot.sh > /etc/SSHPlus/ShellBot.sh
   	        cd /etc/SSHPlus
-  	        screen -dmS bot_plus ./bot $tokenbot > /dev/null 2>&1
+  	        screen -dmS bot_plus ./bot $tokenbot $iduser > /dev/null 2>&1
               [[ $(grep -wc "bot_plus" /etc/autostart) = '0' ]] && {
 		          echo -e "ps x | grep 'bot_plus' | grep -v 'grep' && echo 'ON' || cd /etc/SSHPlus && sudo screen -dmS bot_plus ./bot $tokenbot $iduser && cd $HOME" >> /etc/autostart
 		      } || {
@@ -91,3 +91,19 @@ fi
 }
 [[ -f "/etc/SSHPlus/ShellBot.sh" ]] && fun_botOnOff || fun_instbot
 #fim
+
+    © 2021 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+
