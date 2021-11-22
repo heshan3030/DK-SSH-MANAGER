@@ -168,7 +168,7 @@ fun_ajuda() {
         env_msg+="⚠️ <i>Available Commands</i>\n\n"
         env_msg+="[<b>01</b>] /menu = Displays menu\n"
         env_msg+="[<b>02</b>] /info = Displays information\n"
-        env_msg+="[<b>03</b>] /help = Option information\n\n"
+        env_msg+="[<b>03</b>] /HELP = Option information\n\n"
         env_msg+="⚠️ <i>Available Options</i>\n\n"
         env_msg+="• <u>CREATE USER</u> = Create ssh user\n\n"
         env_msg+="• <u>CREATE TEST</u> = Create ssh test\n\n"
@@ -241,7 +241,7 @@ criar_user() {
     data=$(sed -n '4 p' $file_user | cut -d' ' -f2)
     validade=$(echo "$data" | awk -F'/' '{print $2FS$1FS$3}' | xargs -i date -d'{}' +%Y-%m-%d)
     if /usr/sbin/useradd -M -N -s /bin/false $usuario -e $validade; then
-        (echo "${senha}";echo "${senha}") | passwd "${usuario}"
+        (echo "${senha}";echo "${ password}") | password "${usuario}"
     else
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
                 --text "$(echo -e "❌ ERROR CREATING USER ❌")" \
@@ -1289,7 +1289,7 @@ msg_bem_vindo() {
     local msg
     msg="✌️හායි බොක්ක😊<b>${message_from_first_name[$id]}</b>\n\n ✅WELCOME DATAKINGDOM SSH MANASGER BOT✅\n\n"
     msg+="🔐To access the menu\n   click This ➡️[ /menu ]\n\n"
-    msg+="⚙️Bot Control Commands\n click This ➡️[ /help ]\n\n"
+    msg+="⚙️Bot Control Commands\n click This ➡️[ /HELP ]\n\n"
     ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
         --text "$(echo -e $msg)" \
         --parse_mode html
