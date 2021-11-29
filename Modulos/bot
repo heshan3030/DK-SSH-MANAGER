@@ -241,7 +241,7 @@ criar_user() {
     data=$(sed -n '4 p' $file_user | cut -d' ' -f2)
     validade=$(echo "$data" | awk -F'/' '{print $2FS$1FS$3}' | xargs -i date -d'{}' +%Y-%m-%d)
     if /usr/sbin/useradd -M -N -s /bin/false $usuario -e $validade; then
-        (echo "${senha}";echo "${ senha}") | password "${usuario}"
+        (echo "${senha}";echo "${senha}") | passwd "${usuario}"
     else
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
                 --text "$(echo -e "❌ ERROR CREATING USER ❌")" \
@@ -883,9 +883,9 @@ speed_test() {
     msg="=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
     msg+="<b>🚀 SERVER SPEED 🚀</b>\n"
     msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=\n\n"
-    msg+="<b>🚥PING/LATENCIA:</b>$png\n"
-    msg+="<b>🚥DOWNLOAD:</b>$down\n"
-    msg+="<b>🚥UPLOAD:</b>$upl\n"
+    msg+="<b>PING/LATENCIA:</b>$png\n"
+    msg+="<b>DOWNLOAD:</b>$down\n"
+    msg+="<b>UPLOAD:</b>$upl\n"
     ShellBot.sendMessage --chat_id $id_admin \
         --text "$(echo -e $msg)" \
         --parse_mode html
@@ -918,7 +918,7 @@ sobremim() {
     msg+="<b>🤖 BOT DATAKINGDOM SSH-MANAGER 🤖</b>\n"
     msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=\n\n"
     msg+="<b>Desenvolvido por:</b> @crazy_vpn\n"
-    msg+="<b>support:</b> @Dk_king_offcial\n\n"
+    msg+="<b>support:</b> @sibatrow\n\n"
     msg+="I was created with the purpose of providing information and tools for VPN management on 🐧 GNU / Linux servidores servers.\n\n"
     msg+="<b>Menu:</b> /menu\n"
     ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
@@ -1287,9 +1287,9 @@ restaure_backup() {
 }
 msg_bem_vindo() {
     local msg
-    msg="✌️හායි බොක්ක😊<b>${message_from_first_name[$id]}</b>\n\n ✅WELCOME DATAKINGDOM SSH MANASGER BOT✅\n\n"
-    msg+="🔐To access the menu\n   click This ➡️[ /menu ]\n\n"
-    msg+="⚙️Bot Control Commands\n click This ➡️[ /HELP ]\n\n"
+    msg="Hi ✌️😃 <b>${message_from_first_name[$id]}</b>\n\nWELCOME(a)\n\n"
+    msg+="To access the menu\nclick or execute [ /menu ]\n\n"
+    msg+="For information\nclick or execute [ /ajuda ]\n\n"
     ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
         --text "$(echo -e $msg)" \
         --parse_mode html
@@ -1909,7 +1909,7 @@ while :; do
                     [[ "${comando[0]}" = "/start" ]] && msg_bem_vindo
                     [[ "${comando[0]}" = "/menu" ]] && fun_menu
                     [[ "${comando[0]}" = "/info" ]] && infouserbot
-                    [[ "${comando[0]}" = "/hrlp" || "${comando[0]}" = "/HELP" ]] && fun_ajuda
+                    [[ "${comando[0]}" = "/hrlp" || "${comando[0]}" = "/ajuda" ]] && fun_ajuda
                     [[ "${comando[0]}" = "/bot" || "${comando[0]}" = "/sobre" ]] && sobremim
                     ;;
                 esac
@@ -2558,5 +2558,3 @@ while :; do
 done
 #FIM
 
-
-   
