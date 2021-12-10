@@ -1,5 +1,5 @@
 # 🇱🇰 DK-SSH-MANAGER 🇱🇰
-<img align="middle" src="https://te.legra.ph/file/113a415251dea06fd3ac1.jpg" width='300'/>
+<img align="middle" src="https://te.legra.ph/file/113a415251dea06fd3ac1.jpg" width='400'/>
 
 
 
