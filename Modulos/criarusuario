@@ -398,7 +398,6 @@ echo "$username $sshlimiter" >>/root/usuarios.db
                 echo -e "\033[1;32m◈ Password    :⪧  \033[1;31m$pass"
                 echo -e "\033[1;32m◈ Login Limit :⪧  \033[1;31m$limit"
                 echo -e "\033[1;32m◈ Expire Date :⪧  \033[1;31m$u_temp minutes"
-		apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
                 echo -e "\033[1;37m◈──────⪧ PORTS ⪦─────◈"
                 echo ""
                 echo -e "\033[1;32m◈ SSH	  ⌁   22"
@@ -435,7 +434,6 @@ echo "$username $sshlimiter" >>/root/usuarios.db
                 echo -e "\033[1;32m◈ Password    :⪧  \033[1;31m$pass"
                 echo -e "\033[1;32m◈ Login Limit :⪧  \033[1;31m$limit"
                 echo -e "\033[1;32m◈ Expire Date :⪧  \033[1;31m$u_temp minutes"
-		apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/heshan3030/DK-SSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
                 echo -e "\033[1;37m◈──────⪧ PORTS ⪦─────◈"
                 echo ""
                 echo -e "\033[1;32m◈ SSH	  ⌁   22"
