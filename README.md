@@ -16,6 +16,8 @@
 ![](https://img.shields.io/badge/Ubuntu-20.04-orange)
 ![](https://img.shields.io/badge/Ubuntu-20.10-orange)
 
+ ## ☆ [PLEACE USE TERMUIS APP](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client&hl=en&gl=US ) 
+
 ## ⚙️HAVE TELEGRAM SSH CREATE BOT
 
 ## ⚙️HAVE SSH ACCOUNT BANNER NAME CHANGE
@@ -62,9 +64,7 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/he
 ## * 💎CONTROL WITH TG BOT
 ## * 💎RELEASED FILES (DECENCRYPTED)
 ## * 💎WITHOUT TROJANO VIRUS (BOTNET)
- 
- ## ☆ [PLEACE USE TERMUIS APP](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client&hl=en&gl=US ) 
- 
+  
 ## ☆ [🔥⚡️⚡️ HESHAN 😍❤️ 🇱🇰 ⚡️⚡️🔥](https://t.me/Dk_king_offcial) ☆
  # TEAM OF : ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️
  
