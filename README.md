@@ -63,6 +63,8 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/he
 ## * 💎RELEASED FILES (DECENCRYPTED)
 ## * 💎WITHOUT TROJANO VIRUS (BOTNET)
  
+ ## ☆ [PLEACE USE TERMUIS APP](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client&hl=en&gl=US ) 
+ 
 ## ☆ [🔥⚡️⚡️ HESHAN 😍❤️ 🇱🇰 ⚡️⚡️🔥](https://t.me/Dk_king_offcial) ☆
  # TEAM OF : ⚡️⚡️𝘿𝘼𝙏𝘼 𝙆𝙄𝙉𝙂𝘿𝙊𝙈⚡️⚡️
  
