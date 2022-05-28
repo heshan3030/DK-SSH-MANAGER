@@ -83,7 +83,7 @@ elif [[ "$ban_cor" = "10" ]]; then
 echo "<h$_size>$msg1</h$_size>" >> $local
 
 /etc/init.d/ssh restart > /dev/null 2>&1
-echo -e "\n\033[1;32mBANNER ADDED SUCCESFULLY!\033[0m"
+echo -e "\n\033[1;32m🥳⚡BANNER ADDED SUCCESFULLY🥳⚡!\033[0m"
 sleep 2
 menu
 else
@@ -94,18 +94,18 @@ echo -e "\n\033[1;31mOption invalid!\033[0m"
 fi
 echo "</font></h$_size>" >> $local
 service ssh restart > /dev/null 2>&1 && service dropbear restart > /dev/null 2>&1
-echo -e "\n\033[1;32mBANNER DEFINED!\033[0m"
+echo -e "\n\033[1;32mBANNER DEFINED❌!\033[0m"
 unset ban_cor
 elif [[ "$resp" = "2" ]]; then
 	echo " " > $local
-	echo -e "\n\033[1;32mBANNER EXCLUDED!\033[0m"
+	echo -e "\n\033[1;32mBANNER EXCLUDED❌!\033[0m"
 	service ssh restart > /dev/null 2>&1 && service dropbear restart > /dev/null 2>&1
 	sleep 2
 	menu
 elif [[ "$resp" = "3" ]]; then
 	menu
 else
-	echo -e "\n\033[1;31mOption invalid!\033[0m"
+	echo -e "\n\033[1;31mOption invalid❌!\033[0m"
 	sleep 2
 	banner
 fi
