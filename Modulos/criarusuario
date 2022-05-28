@@ -310,7 +310,7 @@ echo "$username $sshlimiter" >>/root/usuarios.db
 		clear
 		echo -e "\033[1;32m===================================="
     echo -e "\033[1;32m   ⚡️ DATAKINGDOM PAID PRIVATE SSH ⚡️ "
-    echo -e "\033[1;32m   ☎📞CONTACT US wa.me/+94768100942   "
+    echo -e "\033[1;32m   📞 CONTACT US wa.me/+94768100942 ☎ "
     echo -e "\033[1;32m===================================="
     echo ""
     echo -e "\033[1;31m◈─────⪧ 🔔WARNING🔔 ⪦──────◈"
@@ -339,9 +339,9 @@ echo "$username $sshlimiter" >>/root/usuarios.db
     echo -e "\033[1;32m◈ DropBear  ⌁  80   "
     echo -e "\033[1;32m◈ BadVPN    ⌁  7300 "
     echo ""
-    echo -e "\033[1;37m◈─────────────────────────────────◈"
-    echo -e "\033[1;37m©️  ⚡️ DATAKINGDOM SSH SCRIPT ⚡️    "
-    echo -e "\033[1;37m◈─────────────────────────────────◈"
+    echo -e "\033[1;37m◈─────────────────────────────────◈ "
+    echo -e "\033[1;37m©️  ⚡️ DATAKINGDOM SSH SCRIPT ⚡️  "
+    echo -e "\033[1;37m◈─────────────────────────────────◈ "
 		sleep 1
 		function aguarde() {
 			helice() {
@@ -378,7 +378,7 @@ echo "$username $sshlimiter" >>/root/usuarios.db
 		clear
 		echo -e "\033[1;32m===================================="
     echo -e "\033[1;32m  ⚡️ DATAKINGDOM PAID PRIVATE SSH ⚡️  " 
-    echo -e "\033[1;32m   ☎📞CONTACT US wa.me/+94768100942   "
+    echo -e "\033[1;32m  📞 CONTACT US wa.me/+94768100942 ☎  "
     echo -e "\033[1;32m===================================="
     echo ""
     echo -e "\033[1;31m◈─────⪧ 🔔WARNING🔔 ⪦──────◈"
@@ -408,15 +408,15 @@ echo "$username $sshlimiter" >>/root/usuarios.db
     echo -e "\033[1;32m◈ BadVPN    ⌁  7300 "
     echo ""
     echo -e "\033[1;37m◈─────────────────────────────────◈ "
-    echo -e "\033[1;37m©️ ⚡️ DATAKINGDOM SSH SCRIPT ⚡️ "
+    echo -e "\033[1;37m©️ ⚡️ DATAKINGDOM SSH SCRIPT ⚡️   "
     echo -e "\033[1;37m◈─────────────────────────────────◈ "
 		
 	}
 } || {
 	clear
 	echo -e "\033[1;32m===================================="
-    echo -e "\033[1;32m  ⚡️ DATAKINGDOM PAID PRIVATE SSH ⚡️  " 
-    echo -e "\033[1;32m   ☎📞CONTACT US wa.me/+94768100942   "
+    echo -e "\033[1;32m  ⚡️ DATAKINGDOM PAID PRIVATE SSH ⚡️   " 
+    echo -e "\033[1;32m  📞 CONTACT US wa.me/+94768100942 ☎  "
     echo -e "\033[1;32m===================================="
     echo ""
     echo -e "\033[1;31m◈─────⪧ 🔔WARNING🔔 ⪦──────◈"
